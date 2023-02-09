@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a79d8da6.css",
-    "main.js": "/static/js/main.df69105f.js",
+    "main.css": "/static/css/main.81158c9c.css",
+    "main.js": "/static/js/main.410bc911.js",
     "static/js/787.142da1d4.chunk.js": "/static/js/787.142da1d4.chunk.js",
     "static/media/NotoSansKR-Bold.woff": "/static/media/NotoSansKR-Bold.cdc21ec1a4fa0f11ecf0.woff",
     "static/media/NotoSansKR-Regular.woff": "/static/media/NotoSansKR-Regular.ecf7c76ba0b6bb45527f.woff",
+    "static/media/blogMainImg2.jpg": "/static/media/blogMainImg2.53f23477db5dd882f4b7.jpg",
     "static/media/CentraNo2-Book.woff": "/static/media/CentraNo2-Book.b8c8686691ad9d33e611.woff",
     "static/media/CentraNo2-Bold.woff": "/static/media/CentraNo2-Bold.483b2dfbb6930d9becf2.woff",
+    "static/media/instaIcon.svg": "/static/media/instaIcon.d40bb97a76283539274b.svg",
+    "static/media/blogIcon.svg": "/static/media/blogIcon.5cb556441050c72d8483.svg",
     "index.html": "/index.html",
-    "main.a79d8da6.css.map": "/static/css/main.a79d8da6.css.map",
-    "main.df69105f.js.map": "/static/js/main.df69105f.js.map",
+    "static/media/facebookIcon.svg": "/static/media/facebookIcon.a8cc5d741f789cadb95c.svg",
+    "main.81158c9c.css.map": "/static/css/main.81158c9c.css.map",
+    "main.410bc911.js.map": "/static/js/main.410bc911.js.map",
     "787.142da1d4.chunk.js.map": "/static/js/787.142da1d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a79d8da6.css",
-    "static/js/main.df69105f.js"
+    "static/css/main.81158c9c.css",
+    "static/js/main.410bc911.js"
   ]
 }
