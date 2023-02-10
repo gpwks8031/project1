@@ -1,23 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.76ba3873.css",
-    "main.js": "/static/js/main.c349d497.js",
+    "main.css": "/static/css/main.a9386899.css",
+    "main.js": "/static/js/main.6acda24f.js",
     "static/media/NotoSansKR-Bold.woff": "/static/media/NotoSansKR-Bold.cdc21ec1a4fa0f11ecf0.woff",
     "static/media/NotoSansKR-Regular.woff": "/static/media/NotoSansKR-Regular.ecf7c76ba0b6bb45527f.woff",
-    "static/media/timeline1.jpg": "/static/media/timeline1.3ed8137f1b7a2555cd0e.jpg",
-    "static/media/blogMainImg2.jpg": "/static/media/blogMainImg2.53f23477db5dd882f4b7.jpg",
     "static/media/CentraNo2-Book.woff": "/static/media/CentraNo2-Book.b8c8686691ad9d33e611.woff",
     "static/media/CentraNo2-Bold.woff": "/static/media/CentraNo2-Bold.483b2dfbb6930d9becf2.woff",
-    "static/media/instaIcon.svg": "/static/media/instaIcon.d40bb97a76283539274b.svg",
-    "static/media/blogIcon.svg": "/static/media/blogIcon.5cb556441050c72d8483.svg",
     "index.html": "/index.html",
-    "static/media/facebookIcon.svg": "/static/media/facebookIcon.a8cc5d741f789cadb95c.svg",
     "static/media/outlinkPlay.svg": "/static/media/outlinkPlay.a364e8ee298ff892e47f.svg",
-    "main.76ba3873.css.map": "/static/css/main.76ba3873.css.map",
-    "main.c349d497.js.map": "/static/js/main.c349d497.js.map"
+    "main.a9386899.css.map": "/static/css/main.a9386899.css.map",
+    "main.6acda24f.js.map": "/static/js/main.6acda24f.js.map"
   },
   "entrypoints": [
-    "static/css/main.76ba3873.css",
-    "static/js/main.c349d497.js"
+    "static/css/main.a9386899.css",
+    "static/js/main.6acda24f.js"
   ]
 }
