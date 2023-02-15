@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e88dbe93.css",
+    "main.css": "/static/css/main.7d54a953.css",
     "main.js": "/static/js/main.3ac27724.js",
     "static/media/NotoSansKR-Bold.woff": "/static/media/NotoSansKR-Bold.cdc21ec1a4fa0f11ecf0.woff",
     "static/media/NotoSansKR-Regular.woff": "/static/media/NotoSansKR-Regular.ecf7c76ba0b6bb45527f.woff",
     "static/media/CentraNo2-Book.woff": "/static/media/CentraNo2-Book.b8c8686691ad9d33e611.woff",
-    "static/media/img_process.jpg": "/static/media/img_process.54238b1ba8a0ab97a956.jpg",
-    "static/media/bg_product.jpg": "/static/media/bg_product.5658b1e6835f2713b9df.jpg",
     "static/media/CentraNo2-Bold.woff": "/static/media/CentraNo2-Bold.483b2dfbb6930d9becf2.woff",
-    "static/media/btn_arrange4.jpg": "/static/media/btn_arrange4.1fd683bf9bdb422aed4f.jpg",
-    "static/media/btn_arrange3.jpg": "/static/media/btn_arrange3.deafc9133573e3ef974b.jpg",
-    "static/media/btn_arrange2.jpg": "/static/media/btn_arrange2.0e9653350ac4b9081c11.jpg",
-    "static/media/btn_arrange1.jpg": "/static/media/btn_arrange1.08f0599f953cd568ef72.jpg",
     "index.html": "/index.html",
-    "main.e88dbe93.css.map": "/static/css/main.e88dbe93.css.map",
+    "main.7d54a953.css.map": "/static/css/main.7d54a953.css.map",
     "main.3ac27724.js.map": "/static/js/main.3ac27724.js.map"
   },
   "entrypoints": [
-    "static/css/main.e88dbe93.css",
+    "static/css/main.7d54a953.css",
     "static/js/main.3ac27724.js"
   ]
 }
