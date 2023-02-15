@@ -1,0 +1,34 @@
+{
+  "SIDIZ": [
+    {
+      "id": "0",
+      "title": "T500HLDA",
+      "price": "￦454,000",
+      "imgUrl": "product1"
+    },
+    {
+      "id": "1",
+      "title": "T500HLDA 화이트쉘",
+      "price": "￦467,000",
+      "imgUrl": "product2"
+    },
+    {
+      "id": "2",
+      "title": "T500HF",
+      "price": "￦336,000",
+      "imgUrl": "product3"
+    },
+    {
+      "id": "3",
+      "title": "T503F",
+      "price": "￦258,000",
+      "imgUrl": "product4"
+    },
+    {
+      "id": "3",
+      "title": "T503F 화이트쉘",
+      "price": "￦258,000",
+      "imgUrl": "product5"
+    }
+  ]
+}
