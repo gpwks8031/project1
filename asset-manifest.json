@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1aafdd3d.css",
-    "main.js": "/static/js/main.cc176db2.js",
+    "main.css": "/static/css/main.a8528ef9.css",
+    "main.js": "/static/js/main.bc4ab0d4.js",
     "static/media/NotoSansKR-Bold.woff": "/static/media/NotoSansKR-Bold.cdc21ec1a4fa0f11ecf0.woff",
     "static/media/NotoSansKR-Regular.woff": "/static/media/NotoSansKR-Regular.ecf7c76ba0b6bb45527f.woff",
     "static/media/CentraNo2-Book.woff": "/static/media/CentraNo2-Book.b8c8686691ad9d33e611.woff",
     "static/media/CentraNo2-Bold.woff": "/static/media/CentraNo2-Bold.483b2dfbb6930d9becf2.woff",
     "index.html": "/index.html",
-    "main.1aafdd3d.css.map": "/static/css/main.1aafdd3d.css.map",
-    "main.cc176db2.js.map": "/static/js/main.cc176db2.js.map"
+    "main.a8528ef9.css.map": "/static/css/main.a8528ef9.css.map",
+    "main.bc4ab0d4.js.map": "/static/js/main.bc4ab0d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aafdd3d.css",
-    "static/js/main.cc176db2.js"
+    "static/css/main.a8528ef9.css",
+    "static/js/main.bc4ab0d4.js"
   ]
 }
