@@ -4,31 +4,41 @@
       "id": "0",
       "title": "T500HLDA",
       "price": "￦454,000",
-      "imgUrl": "product1"
+      "imgUrl": "product1",
+      "color": "딥그린",
+      "img90": "product1_90x90"
     },
     {
       "id": "1",
       "title": "T500HLDA 화이트쉘",
       "price": "￦467,000",
-      "imgUrl": "product2"
+      "imgUrl": "product2",
+      "color": "아이보리",
+      "img90": "product2_90x90"
     },
     {
       "id": "2",
       "title": "T500HF",
       "price": "￦336,000",
-      "imgUrl": "product3"
+      "imgUrl": "product3",
+      "color": "다크그레이",
+      "img90": "product3_90x90"
     },
     {
       "id": "3",
       "title": "T503F",
       "price": "￦258,000",
-      "imgUrl": "product4"
+      "imgUrl": "product4",
+      "color": "다크레드",
+      "img90": "product4_90x90"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "T503F 화이트쉘",
       "price": "￦258,000",
-      "imgUrl": "product5"
+      "imgUrl": "product5",
+      "color": "라이트그레이",
+      "img90": "product5_90x90"
     }
   ]
 }
